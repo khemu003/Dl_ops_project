@@ -1,2 +1,37 @@
 [2025-07-24 22:38:54,184: INFO: main: Welcome to the CNN Classifier module.]
 [2025-07-25 15:39:38,938: INFO: main: Welcome to the CNN Classifier module.]
+[2025-08-06 16:17:06,259: INFO: common: YAML file config\config.yaml loaded successfully]
+[2025-08-06 16:17:06,289: INFO: common: YAML file params.yaml loaded successfully]
+[2025-08-06 16:17:06,293: INFO: common: created directory at: artifacts]
+[2025-08-06 16:17:06,295: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-08-06 16:17:51,408: INFO: common: YAML file config\config.yaml loaded successfully]
+[2025-08-06 16:17:51,413: INFO: common: YAML file params.yaml loaded successfully]
+[2025-08-06 16:17:51,416: INFO: common: created directory at: artifacts]
+[2025-08-06 16:17:51,417: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-08-06 16:17:54,290: INFO: 144590454: artifacts/data_ingestion/data.zip download! with following info: 
+ Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: B1F8:F7097:E6FA2:240206:689332D7
+Accept-Ranges: bytes
+Date: Wed, 06 Aug 2025 10:47:53 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom-vanm7210037-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1754477272.252986,VS0,VE857
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 4e614c4b1aed8f61fe5af64785905ebc2f00bc77
+Expires: Wed, 06 Aug 2025 10:52:53 GMT
+Source-Age: 1
+
+]
